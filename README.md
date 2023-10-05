@@ -1,6 +1,8 @@
-### Hi there 👋
-#### My name is Gabriel. I'm currently studying Computer Science and participating in an exchange program between the Federal University of Rio Grande do Sul (UFRGS, Brazil) and the Technical University of Kaiserslautern (RPTU, Germany). As part of this program I'm also working as an Exchange Student at the German Research Center for Artificial Intelligence (DFKI).
-#### Feel free to connect with me through my <a href="https://www.linkedin.com/in/gabriel-madeira" target="_blank">LinkedIn</a>.
+Hi there 👋
+
+My name is Gabriel. I'm currently studying Computer Science and participating in an exchange program between the Federal University of Rio Grande do Sul (UFRGS, Brazil) and the Technical University of Kaiserslautern (RPTU, Germany). As part of this program I'm also working as an Exchange Student at the German Research Center for Artificial Intelligence (DFKI).
+
+Feel free to connect with me through my <a href="https://www.linkedin.com/in/gabriel-madeira" target="_blank">LinkedIn</a>.
 
 
 ## Stats
