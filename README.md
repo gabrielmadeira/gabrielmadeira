@@ -1,6 +1,6 @@
 Hi there 👋
 
-My name is Gabriel. I'm currently studying Computer Science at Federal University of Rio Grande do Sul (UFRGS, Brazil).
+My name is Gabriel. I am a software engineer and graduated in computer science from the Federal University of Rio Grande do Sul (UFRGS, Brazil).
 
 
 Feel free to connect with me through my <a href="https://www.linkedin.com/in/gabriel-madeira" target="_blank">LinkedIn</a>.
